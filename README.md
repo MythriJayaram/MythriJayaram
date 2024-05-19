@@ -4,5 +4,3 @@ I'm a data enthusiast exploring the intersection of data visualization, statisti
 Currently Learning R Programming & Julia Programming language.
 Looking to Collaborate On Data analysis, data mining and machine learning projects.
 Reach me through GitHub!
-
-[![Mythri's GitHub stats](https://github-readme-stats.vercel.app/api?username=MythriJayaram)](https://github.com/MythriJayaram/github-readme-stats)
