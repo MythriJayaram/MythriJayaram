@@ -17,7 +17,6 @@ Skills:  Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD 
 <p align="left">
   <a href="https://www.linkedin.com/in/mythrikj">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="28"/>
-  </a>
   <a href="mailto:mythrikjayaram4@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="28"/>
   </a>
