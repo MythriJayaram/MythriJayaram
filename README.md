@@ -10,9 +10,9 @@ Skills:  Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD 
 
 
 🎓 Background
-    BE in Information Science & Engineering 
-    MS in Data Science
-    Experience across telecom analytics, cloud automation, AI/ML systems and production data platforms
+    - BE in Information Science & Engineering 
+    - MS in Data Science
+    - Experience across telecom analytics, cloud automation, AI/ML systems and production data platforms
 
 🤝 Let’s Connect
 <p align="center">
