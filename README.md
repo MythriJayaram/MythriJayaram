@@ -38,6 +38,6 @@ I’m always interested in **Data Science, ML/AI, and Analytics roles** where I 
 ⚡ **Fun fact:** I enjoy solving complex data puzzles and often find myself lost in hours of coding to uncover hidden insights.
 
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/MythriJayaram)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MythriJayaram)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MythriJayaram)
