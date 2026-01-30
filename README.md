@@ -4,15 +4,15 @@ Data & AI Engineer | Applied ML & Analytics | AWS • Python • SQL • Databri
 =
 I’m a Data & AI professional experience in building production-ready data pipelines, analytics platforms, and applied machine learning solutions on large, real-world datasets. I enjoy working at the intersection of data engineering, machine learning, and AI-driven automation, turning complex data into scalable, high-impact systems.
 
-Skills:  Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD / React / Streamlit
+• Skills:  Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD / React / Streamlit
 
 🔭 I’m currently working on building AI-driven workflows and ML pipelines used in live environments. Developing full-stack AI applications with APIs and dashboards. Evaluating model performance, latency, and reliability in production systems.
 
 
 🎓 Background
-
-	•	MS in Data Science (GPA 3.87/4.0)
-	•	Experience across telecom analytics, cloud automation, AI/ML systems and production data platforms
+BE in Information Science & Engineering 
+MS in Data Science
+Experience across telecom analytics, cloud automation, AI/ML systems and production data platforms
 
 🤝 Let’s Connect
 <p align="center">
