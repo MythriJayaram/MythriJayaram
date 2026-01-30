@@ -2,7 +2,7 @@
 =
 Data & AI Engineer | Applied ML & Analytics | AWS • Python • SQL • Databricks
 =
-I’m a Data & AI professional with 5+ years of experience building production-ready data pipelines, analytics platforms, and applied machine learning solutions on large, real-world datasets. I enjoy working at the intersection of data engineering, machine learning, and AI-driven automation, turning complex data into scalable, high-impact systems.
+I’m a Data & AI professional experience in building production-ready data pipelines, analytics platforms, and applied machine learning solutions on large, real-world datasets. I enjoy working at the intersection of data engineering, machine learning, and AI-driven automation, turning complex data into scalable, high-impact systems.
 
 Skills:  Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD / React / Streamlit
 
@@ -14,11 +14,13 @@ Skills:  Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD 
 	•	Experience across telecom analytics, cloud automation, AI/ML systems and production data platforms
 
 🤝 Let’s Connect
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mythrikj">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="28"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="28" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mythrikjayaram4@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="28"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="28" />
   </a>
 </p>
 
