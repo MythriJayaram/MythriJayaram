@@ -10,11 +10,13 @@ Skills:  Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD 
 
 
 🎓 Background
+
     - BE in Information Science & Engineering 
     - MS in Data Science
     - Experience across telecom analytics, cloud automation, AI/ML systems and production data platforms
 
 🤝 Let’s Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mythrikj">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="28" />
