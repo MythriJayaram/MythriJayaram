@@ -14,9 +14,14 @@ Skills:  Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD 
 	•	Experience across telecom analytics, cloud automation, AI/ML systems and production data platforms
 
 🤝 Let’s Connect
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/mythrikj)
-&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30">](mailto:mythrikjayaram4@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mythrikj">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="28"/>
+  </a>
+  <a href="mailto:mythrikjayaram4@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="28"/>
+  </a>
+</p>
 
 I’m always interested in Data Science, ML/AI and Analytics roles where I can build impactful, scalable solutions and learn from strong engineering teams.
 
