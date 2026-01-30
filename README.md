@@ -1,9 +1,17 @@
 ### Hi there 👋, Mythri here!
-Welcome to my GitHub profile!I'm passionate to explore the limitless possibilities that data offers to solve real-world problems. I'm a data enthusiast exploring the intersection of data visualization, statistical testing, and computational performance.
 
-Skills: PYTHON / REACT / JS / HTML / CSS / Unix Script / SLURM Job Script / R
+Welcome to my GitHub! I’m a Data & AI Engineer / Applied ML Engineer with experience in building production-grade data platforms, ML systems and full-stack AI applications in cloud environments. I work across the stack from data ingestion and model development to APIs, dashboard and user-facing AI tools with a strong focus on scalability, reliability and real-world impact.
 
-- 🔭 I’m currently working on Developing data visualization dashboards. Conducting statistical analysis and hypothesis testing. Building linear models for predictive analysis. Enhancing computational performance of data processing algorithms 
+Skills:  Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD / React / Streamlit
+
+🔧 What I Work On
+	•	Building end-to-end data & ML pipelines (ingestion → modeling → deployment)
+	•	Developing AI/ML-powered backend services and REST APIs
+	•	Creating full-stack analytics & AI applications with interactive UIs
+	•	Integrating LLMs, NLP models and AI services into products
+	•	Ensuring data quality, monitoring and system reliability in production
+
+- 🔭 I’m currently working on building AI-driven workflows and ML pipelines used in live environments. Developing full-stack AI applications with APIs and dashboards. Evaluating model performance, latency, and reliability in production systems.
 - 🌱 I’m currently learning R & Julia Programming language 
 - 👯 I’m looking to collaborate on Projects focused on data analysis, machine learning, or any innovative use of statistical models. 
 - 😄 Pronouns: (She/Her) 
