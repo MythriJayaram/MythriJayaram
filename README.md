@@ -10,7 +10,9 @@ Skills:  Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD 
 
 
 🎓 Background
+
 	•	MS in Data Science (GPA 3.87/4.0)
+	
 	•	Experience across telecom analytics, cloud automation, AI/ML systems and production data platforms
 
 🤝 Let’s Connect
