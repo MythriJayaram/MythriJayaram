@@ -2,7 +2,7 @@
 
 ### Data & AI Engineer | Applied ML & Analytics  
 
-I’m a Data & AI professional with experience building production-ready data pipelines, analytics platforms, and applied machine learning solutions** on large, real-world datasets. I enjoy working at the intersection of data engineering, machine learning, and AI-driven automation, turning complex data into scalable, high-impact systems.
+I’m a Data & AI professional with experience building production-ready data pipelines, analytics platforms, and applied machine learning solutions on large, real-world datasets. I enjoy working at the intersection of data engineering, machine learning, and AI-driven automation, turning complex data into scalable, high-impact systems.
 
 
 ## 🛠️ Skills
