@@ -6,7 +6,7 @@ I’m a Data & AI professional with experience building production-ready data pi
 
 
 ## 🛠️ Skills
-**Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD / React / Streamlit**
+**Python / SQL / AWS / Databricks / ML Pipelines / APIs / Docker / CI/CD / shell scripiting / Streamlit**
 
 
 ## 🔭 What I’m Working On
